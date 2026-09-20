@@ -1,2 +1,2 @@
-# world-bank-electricity-ml
-Analysis and Machine Learning project using World Bank electricity access data.
+# Smart-Room-Occupancy-Detection
+Predicting room occupancy using environmental sensor data such as light, temperature, and CO2.
